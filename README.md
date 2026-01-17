@@ -7,6 +7,8 @@ HardWare Modeling Language
 
 HWML is a declarative, JSON-based language for modeling hardware systems as reactive dataflow graphs.  It enables composition of hardware modules, automatic dependency resolution, and seamless switching between physical hardware and simulation.
 
+The structure is analogous to a spreadsheet- where hardware modules are like sheets and the components are cells.
+
 ## Design Goals
 
 1. **Declarative** - Describe relationships, not procedures
